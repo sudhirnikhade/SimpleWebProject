@@ -1,3 +1,4 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, Congratuations!!! </h1>
+<h2> Deploying war file on Tomcat thorugh ansible using jenkins </h2>
+<h3> ============= </h3>
+<h4> Successfully deployed </h4>

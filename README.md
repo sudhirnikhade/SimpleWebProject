@@ -1,2 +1,3 @@
-# SimpleWebProject
-Simple Web project using jenkins and git ----> Demo
+# maven-project
+
+Simple Maven Project
